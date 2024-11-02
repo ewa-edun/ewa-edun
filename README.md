@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Ewa.
-- 👀 I’m interested in hakathons, coding, data science, and finding an internship😥.
-- 🌱 I’m currently learning python ans SQL.
-- 💞️ I’m looking to collaborate on hackathons and networking.
+- 👀 I’m interested in hakathons, coding, data science, AI/ML and finding an internship😥.
+- 🌱 I’m currently learning python and SQL.
 - 📫 LinkedIn link is https://www.linkedin.com/in/oluwadamilola-edun/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: is there any really??? (I like crochet tho and tea)
+- ⚡ Fun fact: is there any really??? 
 
 <!---
 ewa-edun/ewa-edun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

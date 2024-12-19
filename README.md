@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ewa.
-- 👀 I’m interested in hakathons, coding, data science, AI/ML and finding an internship😥.
+- 👀 I’m interested in hackathons, coding, data science, AI/ML and finding an internship😥.
 - 🌱 I’m currently learning python and SQL.
 - 📫 LinkedIn link is https://www.linkedin.com/in/oluwadamilola-edun/
 - 😄 Pronouns: she/her

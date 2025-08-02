@@ -3,7 +3,8 @@
 - 👀 I’m interested in hackathons, coding, data science, AI/ML and finding an internship😥.<br>
 - 🌱 I’m currently learning new programming languages and improving my skills in data and web development.<br>
 - 👯 I’m looing to collaborate on open-source projects and exciting web applications.<br>
-- 💬 Ask me about Python, JavaScript, and web development frameworks.<br>- 📫 How to reach me: Discord: ewa_edun<br>
+- 💬 Ask me about Python, JavaScript, and web development frameworks.<br>
+- 📫 How to reach me: Discord: ewa_edun<br>
 - 😄 Pronouns: She/Her<br>
 - ⚡ Fun fact: I love exploring new technologies and applying them to real-world projects.
 
